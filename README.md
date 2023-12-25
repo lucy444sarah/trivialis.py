@@ -18,13 +18,13 @@ Clone the repository to your local machine.
 Run the Python script in your preferred environment.
 Answer questions, earn points, and enjoy the thrill of the Python Trivia Fun Challenge!
 👩‍💻 Acknowledgments:
-Special thanks to [YouTuber Coder's Name] for their invaluable guidance in creating this entertaining trivia game. Their expertise and creativity have truly added a spark to the coding journey!
+Special thanks to Bro Code for hisinvaluable guidance in creating this entertaining trivia game. His nerdyness,expertise and creativity have truly added a spark to the coding journey!
 
 📢 Contribute:
 Feel free to contribute by adding more questions, enhancing the user interface, or fixing any bugs you encounter. Let's make the Python Trivia Fun Challenge even more amazing together!
 
 📚 License:
-This project is licensed under the [Your Chosen License]. See the LICENSE file for details.
+This project is licensed under the [NONE]. See the LICENSE file for details (NOT!).
 
 🌟 Enjoy the Game!
 May your Python knowledge shine, and may the trivia odds be ever in your favor. Happy coding and have a blast playing the Python Trivia Fun Challenge! 🎮✨
